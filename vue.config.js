@@ -9,7 +9,7 @@ module.exports = {
   publicPath: '/',
   outputDir: 'dist',
   assetsDir: 'static',
-  lintOnSave: true,
+  lintOnSave: false,
   productionSourceMap: false,
   devServer: {
     port: 3030,
